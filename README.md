@@ -38,6 +38,7 @@ Bienvenue dans le repository du projet **Création et Utilisation d'une Base de 
 ├── Moreno_Bastien_4_requetes_012023.pdf                             # Requêtes SQL et résultats
 ├── Moreno_Bastien_5_presentation_012023.pdf                         # Support de présentation
 ├── README.md                                                        # Ce fichier
+```
 
 ## 👨‍💻 Auteur
 Bastien Moreno - Data Scientist et passionné par l'analyse de données et le développement de modèles intelligents.\
